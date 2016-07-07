@@ -3,7 +3,7 @@
 #	ACADEMIC WORK ACADEMY SOMMAR 2016													#
 #																						#
 #																						#
-#	Glöm inte att det är ett publict repo..												#
+#	Glöm inte att det är ett publikt repo..												#
 #	Bara vi kan ändra.. men alla kan se.												#
 #																						#
 #########################################################################################
